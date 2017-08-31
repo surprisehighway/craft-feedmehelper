@@ -24,7 +24,7 @@ Feedme Helper works on Craft 2.4.x and Craft 2.5.x.
 
 ## Importing CSV Data
 
-**Important: Your CSV file must have a header row.** This is used by FeedMe to identify columns for field mapping and save the feed settings.
+**Important: Your CSV file must have a header row.** This is used by FeedMe to identify columns for field mapping and to save the feed settings.
 
 ```
 header1,"Header Two",header3
@@ -32,7 +32,7 @@ header1,"Header Two",header3
 "Row two","Row two data Column two",654321
 ```
 
-1. Creat a new Feed, setting your [Feed URL](https://sgroup.com.au/plugins/feedme/feature-tour/creating-your-feed#feed-url) and selecting `CSV Feed` from [Feed Type](https://sgroup.com.au/plugins/feedme/feature-tour/creating-your-feed#feed-type) dropdown.
+1. Create a new Feed, setting your [Feed URL](https://sgroup.com.au/plugins/feedme/feature-tour/creating-your-feed#feed-url) and selecting `CSV Feed` from [Feed Type](https://sgroup.com.au/plugins/feedme/feature-tour/creating-your-feed#feed-type) dropdown.
 2. Carry on with normal FeedMe import settings and field mapping.
 
 ## Bonus How-to: Creating a Custom Data Source
