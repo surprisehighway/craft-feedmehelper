@@ -1,0 +1,16 @@
+{
+	"name": "surprisehighway/feedmehelper",
+	"description": "CSV Datatype for Feedme.",
+	"type": "craft-plugin",
+	"authors": [
+		{
+			"name": "Mike Kroll",
+			"name": "Surprise Highway",
+			"homepage": "http://surprisehighway.com"
+		}
+	],
+	"require": {
+		"composer/installers": "~1.0",
+		"league/csv": "^8.2"
+	}
+}
