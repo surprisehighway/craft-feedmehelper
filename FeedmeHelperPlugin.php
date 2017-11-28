@@ -29,12 +29,12 @@ class FeedmeHelperPlugin extends BasePlugin
 
     public function getDocumentationUrl()
     {
-        return 'https://github.com/surprisehighway/feedmehelper/blob/master/README.md';
+        return 'https://github.com/surprisehighway/craft-feedmehelper/blob/master/README.md';
     }
 
     public function getReleaseFeedUrl()
     {
-        return 'https://raw.githubusercontent.com/surprisehighway/feedmehelper/master/releases.json';
+        return 'https://raw.githubusercontent.com/surprisehighway/craft-feedmehelper/master/releases.json';
     }
 
     public function getVersion()
