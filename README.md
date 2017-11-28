@@ -11,8 +11,8 @@ You can also use this plugin as a scaffold to easily add your own custom Datatyp
 To install Feedme Helper, follow these steps:
 
 1. Download & unzip the file and place the `feedmecsv` directory into your `craft/plugins` directory
-2.  -OR- do a `git clone https://github.com/surprisehighway/feedmehelper.git` directly into your `craft/plugins` folder.  You can then update it with `git pull`
-3.  -OR- install with Composer via `composer require surprisehighway/feedmehelper`
+2.  -OR- do a `git clone https://github.com/surprisehighway/craft-feedmehelper.git` directly into your `craft/plugins` folder.  You can then update it with `git pull`
+3.  -OR- install with Composer via `composer require surprisehighway/craft-feedmehelper`
 4. Install plugin in the Craft Control Panel under Settings > Plugins
 5. The plugin folder should be named `feedmehelper` for Craft to see it.  GitHub recently started appending `-master` (the branch name) to the name of the folder for zip file downloads.
 
